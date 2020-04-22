@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=6086745,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://wowzaprod198-i.akamaihd.net/hls/live/787209/923bab08/923bab08_1_5767168/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1498957,CODECS="avc1.4d4020,mp4a.40.2",RESOLUTION=640x360
+https://wowzaprod198-i.akamaihd.net/hls/live/787209/923bab08/923bab08_1_1024000/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=431198,CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=284x160
+https://wowzaprod198-i.akamaihd.net/hls/live/787209/923bab08/923bab08_1_200000/chunklist.m3u8
